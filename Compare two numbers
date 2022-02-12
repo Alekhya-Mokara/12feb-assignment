@@ -1,0 +1,10 @@
+p=int(input("enter the first number:"))
+q=int(input("enter the second number:"))
+if p==q :
+ Print ("p is equal to q:")
+elif p!=q :
+ Print("p is not equal to q:")
+elif p>q :
+ Print("p is greater than q:")
+elif p<q :
+ Print ("p is less than q:")
